@@ -1,0 +1,11 @@
+C:\Users\alokt\source\repos\Customer.DataAccess\bin\Debug\netstandard2.0\Customer.DataAccess.deps.json
+C:\Users\alokt\source\repos\Customer.DataAccess\bin\Debug\netstandard2.0\Customer.DataAccess.dll
+C:\Users\alokt\source\repos\Customer.DataAccess\obj\Debug\netstandard2.0\Customer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alokt\source\repos\Customer.DataAccess\obj\Debug\netstandard2.0\Customer.DataAccess.AssemblyInfo.cs
+C:\Users\alokt\source\repos\Customer.DataAccess\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\alokt\source\repos\Customer.DataAccess\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\alokt\source\repos\Customer.DataAccess\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\alokt\source\repos\Customer.DataAccess\bin\Debug\netstandard2.0\Customer.DataAccess.pdb
+C:\Users\alokt\source\repos\Customer.DataAccess\obj\Debug\netstandard2.0\Customer.DataAccess.dll
+C:\Users\alokt\source\repos\Customer.DataAccess\obj\Debug\netstandard2.0\Customer.DataAccess.pdb
+C:\Users\alokt\source\repos\Customer.DataAccess\obj\Debug\netstandard2.0\Customer.DataAccess.csprojAssemblyReference.cache
